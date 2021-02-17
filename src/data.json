@@ -1,0 +1,47 @@
+{
+    "products":[
+        {"_id":"dress1",
+            "image":"/images/dress1.jpg",
+            "title":"Dress 1",
+            "description":"about dress 1",
+            "price":19,
+            "availableSizes":["XL","XXL"]
+        },
+        {"_id":"dress2",
+            "image":"/images/dress2.jpg",
+            "title":"Midi sundress with shirring detail",
+            "description":"This is for all latest trends.",
+            "price":18,
+            "availableSizes":["X","L","XL","XXL"]
+        },
+        {"_id":"dress3",
+            "image":"/images/dress3.jpg",
+            "title":"Dress 3",
+            "description":"about dress 3",
+            "price":16,
+            "availableSizes":["X","M","L"]
+        },
+        {"_id":"dress4",
+            "image":"/images/dress4.jpg",
+            "title":"Dress 1",
+            "description":"about dress 4",
+            "price":14,
+            "availableSizes":["X","XL","M"]
+        },
+        {"_id":"dress5",
+            "image":"/images/dress5.jpg",
+            "title":"Dress 5",
+            "description":"about dress 5",
+            "price":29,
+            "availableSizes":["XL","XXL","X"]
+        },
+        {"_id":"dress6",
+            "image":"/images/dress6.jpg",
+            "title":"Dress 6",
+            "description":"about dress 6",
+            "price":20,
+            "availableSizes":["XL","XXL","M"]
+        }
+        
+    ]
+}
